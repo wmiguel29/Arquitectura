@@ -4,5 +4,7 @@ Clase Arquitectura de Hardware EIA
 
 
 
-Universidad EIA \n
+Universidad EIA 
+
+
 Miguel Wagner
