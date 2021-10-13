@@ -15,11 +15,11 @@ void setup() {
   //Iniciamos la comunicación serial
   Serial.begin(9600);
   pinMode(input, INPUT);
-  analogWrite(input,0);
+  //analogRead(input);
   pinMode(motor, OUTPUT);   
-  digitalWrite( motor, LOW );
+  //digitalWrite( motor, LOW );
   pinMode(led, OUTPUT);   
-  digitalWrite( led, LOW );
+  //digitalWrite( led, LOW );
   
   
 }
